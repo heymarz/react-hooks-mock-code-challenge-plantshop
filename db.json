@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "sour Cream",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/toy-story-4-poster-1553002506.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "price": 67,
+      "id": 8
+    },
+    {
+      "name": "sdfha;h",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/toy-story-4-poster-1553002506.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "price": 68,
+      "id": 9
+    },
+    {
+      "name": "sour Cream",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/toy-story-4-poster-1553002506.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "price": 94,
+      "id": 10
+    },
+    {
+      "name": "sdfha;h",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/toy-story-4-poster-1553002506.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "price": 43,
+      "id": 11
+    },
+    {
+      "name": "sdfha;h",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/toy-story-4-poster-1553002506.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "price": 43,
+      "id": 12
+    },
+    {
+      "name": "kda",
+      "image": "slkaj",
+      "price": "",
+      "id": 13
     }
   ]
 }
